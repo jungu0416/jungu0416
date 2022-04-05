@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ㅁㄴㅇㄹ&fontSize=90)
 
 
-### Jungu Kang 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungu0416&count_bg=%235BB813&title_bg=%23868181&icon=counter-strike.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Jungu Kang 👋
 
-
-![jungu0416's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungu0416)
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -21,6 +19,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
  
-#Contacts
+### Contects
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://projectlist.potatoo.com)](https://projectlist.potatoo.dev) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junguYY0809@gmail.com)](mailto:junguYY0809@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jungu0416@naver.com)](mailto:jungu0416@naver.com)
 
+
+
+![jungu0416's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungu0416)
