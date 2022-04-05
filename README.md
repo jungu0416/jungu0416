@@ -1,3 +1,7 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungu0416&count_bg=%235BB813&title_bg=%23868181&icon=counter-strike.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
 ### Hi there 👋
 
 
