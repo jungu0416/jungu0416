@@ -2,15 +2,15 @@
 
 
 ### Jungu Kang 👋
-
-# AWS EC2 를 이용한 서비스 배포
-# 서비스 주소 -> https://projectlist.potatoo.dev
-# 젠킨스 주소 -> https://jenkins.potatoo.dev
-# OS -> Ubuntu 20.04
-# WEB -> nginx 1.18.0
-# WAS -> tomcat 9.0
-# DB -> MariaDB
-# HTTPS 설정 -> certbot
+-----------------------------------
+### AWS EC2 를 이용한 서비스 배포
+### 서비스 주소 -> https://projectlist.potatoo.dev
+### 젠킨스 주소 -> https://jenkins.potatoo.dev
+### OS -> Ubuntu 20.04
+### WEB -> nginx 1.18.0
+### WAS -> tomcat 9.0
+### DB -> MariaDB
+### HTTPS 설정 -> certbot
 
 # 💪Skills
 ### Platforms & Languages
