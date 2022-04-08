@@ -2,7 +2,7 @@
 
 
 ### Jungu Kang 👋
- > :spiral_calendar: __2021-04-02__ ~
+ > :spiral_calendar: __2021-04-12__ ~
 -----------------------------------
 ### AWS EC2 를 이용한 서비스 배포
 ### 서비스 주소 -> https://projectlist.potatoo.dev/
