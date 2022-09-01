@@ -4,7 +4,7 @@
 ### Jungu Kang 👋
  > :spiral_calendar: __2021-04-12__ ~
 ----------------------------------- 
-## <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 를 이용한 서비스 배포 (AWS -> t3a.medium)
+## <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 를 이용한 서비스 배포 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 ### 메인 서비스 주소 -> https://projectlist.potatoo.dev/
 ### 젠킨스 주소 -> https://jenkins.potatoo.dev/
