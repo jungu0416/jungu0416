@@ -8,9 +8,9 @@
 
 ### 메인 서비스 주소 -> https://projectlist.potatoo.dev/
 ### 젠킨스 주소 -> https://jenkins.potatoo.dev/
-### OS -> Ubuntu 20.04
-### WEB -> nginx 1.18.0
-### WAS -> tomcat 9.0
+### OS -> Ubuntu
+### WEB -> nginx
+### WAS -> tomcat
 ### DB -> MariaDB
 ### HTTPS 설정 -> certbot
 
