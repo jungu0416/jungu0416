@@ -12,7 +12,7 @@
 ### WEB -> nginx
 ### WAS -> tomcat
 ### DB -> MariaDB
-### HTTPS 설정 -> certbot
+### SSL -> certbot
 
 # 💪Skills
 ### Platforms & Languages
