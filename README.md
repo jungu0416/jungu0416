@@ -5,6 +5,9 @@
  > :spiral_calendar: __2021-04-12__ ~
 -----------------------------------
 ### AWS EC2 를 이용한 서비스 배포
+
+### Docker 컨테이너로 구성
+
 ### 메인 서비스 주소 -> https://projectlist.potatoo.dev/
 ### 젠킨스 주소 -> https://jenkins.potatoo.dev/
 ### OS -> Ubuntu 20.04
