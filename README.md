@@ -1,11 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=potatoo&fontSize=90)
-
 ----------------------------------- 
 ### <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 ### <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
-### 메인 서비스 주소 -> https://profile.potatoo.dev/
-### 젠킨스 주소 -> https://jenkins.potatoo.dev/
+### 메인 서비스-> https://profile.potatoo.dev/
+
 
 # 💪Skills
 ### Platforms & Languages
