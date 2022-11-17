@@ -1,7 +1,7 @@
 ----------------------------------- 
 
 
-### 메인 서비스-> https://profile.potatoo.dev/
+### For more information : https://profile.potatoo.dev/
 
 
 # 💪Skills
