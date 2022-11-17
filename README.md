@@ -3,12 +3,9 @@
 
 
 
-# 💪Skills
-* Java,
-* test
-* test
-
-
+# Skills
+* Linux CLI, Docker, AWS 
+* Java,Python,JavaScript
 
 ### For more information : https://profile.potatoo.dev/
 
