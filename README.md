@@ -4,7 +4,7 @@
 
 
 # Skills
-* Linux CLI, Docker, AWS
+* CLI, Docker
 * Java,Python,JavaScript
 
 ### For more information : https://profile.potatoo.dev/
