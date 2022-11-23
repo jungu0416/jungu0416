@@ -5,7 +5,7 @@ Java , TypeScript , JavaScript , Python
 Next.js , Vue , Spring , SpringBoot 
  
 ## Server
-Ubuntu , Cent Os , Window 
+Ubuntu , CentOS , Window 
 
 ## Database 
 Oracle , Mysql , MariaDB , Sqlite
