@@ -8,7 +8,7 @@ Next.js , Vue , Spring , SpringBoot
 Ubuntu , CentOS , Window 
 
 ## Database 
-Oracle , Mysql , MariaDB , Sqlite
+Oracle , Mysql , MariaDB , Sqlite , H2
 
 ## Util
 Nginx , Tomcat, Gradle , Maven , Git , Svn 
