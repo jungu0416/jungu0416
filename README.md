@@ -1,20 +1,20 @@
 ## Language
- java , ts, js, python
+Java , TypeScript , JavaScript , Python
 
 ## Framework
-node , next , vue , spring , spring boot 
+Next.js , Vue , Spring , SpringBoot 
  
 ## Server
-ubuntu , centos , window 
+Ubuntu , Cent Os , Window 
 
 ## Database 
-oracle , mysql , mariadb , sqlite
+Oracle , Mysql , MariaDB , Sqlite
 
 ## Util
-nginx , tomcat, gradle , maven , git , svn 
+Nginx , Tomcat, Gradle , Maven , Git , Svn 
 
 ## Else
-ELK , Docker , jenkins
+ELK , Docker , Jenkins , Certbot , Filebeat
 
 
 
