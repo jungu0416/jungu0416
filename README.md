@@ -23,5 +23,5 @@ Docker , ELK , Jenkins , Certbot , Filebeat
 <!-- ### Each project has its own description on README.md
 ----------------------- -->
 ### For more information : https://profile.potatoo.dev/
-### Did you know there is dockerHub? : https://hub.docker.com/u/jungu0416
+### dockerHub : https://hub.docker.com/u/jungu0416
 -----------------------
