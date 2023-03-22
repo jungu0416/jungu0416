@@ -2,7 +2,7 @@
 Java , TypeScript , JavaScript , Python
 
 ## Framework
-Next.js , Vue , Spring , SpringBoot 
+Vue , Spring , SpringBoot 
  
 ## Server
 Ubuntu , CentOS , Window 
@@ -11,7 +11,7 @@ Ubuntu , CentOS , Window
 Oracle , Mysql , MariaDB , Sqlite , H2
 
 ## Util
-Nginx , Tomcat, Gradle , Maven , Git , Svn 
+Nginx , Tomcat, Gradle , Maven , Git , Svn , Apache
 
 ## Else
 Docker , ELK , Jenkins , Certbot , Filebeat
