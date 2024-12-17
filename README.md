@@ -1,8 +1,8 @@
 ## Language
-Java , TypeScript , JavaScript , Python
+Java , JavaScript , Python
 
 ## Framework
-Vue , Spring , SpringBoot 
+Spring , SpringBoot 
  
 ## Server
 Ubuntu , CentOS , Window 
