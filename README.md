@@ -1,5 +1,5 @@
 ## Language
-Java , JavaScript , Python
+Java , JavaScript
 
 ## Framework
 Spring , SpringBoot 
@@ -8,13 +8,13 @@ Spring , SpringBoot
 Ubuntu , CentOS , Window 
 
 ## Database 
-Oracle , Mysql , MariaDB , Sqlite , H2
+Oracle , MariaDB 
 
 ## Util
-Nginx , Tomcat, Gradle , Maven , Git , Svn , Apache
+Nginx , Tomcat, Gradle , Maven , Git , Svn
 
 ## Else
-Docker , ELK , Jenkins , Certbot , Filebeat
+Docker, Jenkins
 
 
 
