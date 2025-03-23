@@ -1,27 +1,26 @@
 ## Language
-Java , JavaScript
+Java, JavaScript, TypeScript
 
 ## Framework
-Spring , SpringBoot 
+Spring, SpringBoot, Next.js
  
 ## Server
-Ubuntu , CentOS , Window 
+Ubuntu, CentOS, Window 
 
 ## Database 
-Oracle , MariaDB 
+Oracle, MariaDB, Supabase
 
-## Util
-Nginx , Tomcat, Gradle , Maven , Git , Svn
+## WEB, WAS, Build
+Nginx, Tomcat, Gradle, Maven, Git, SVN
 
-## Else
+## CI/CD
 Docker, Jenkins
-
 
 
 <br/>
 
 <!-- ### Each project has its own description on README.md
 ----------------------- -->
-### For more information : https://profile.potatoo.dev/
+### For more information : https://turtleneck.me/
 ### dockerHub : https://hub.docker.com/u/jungu0416
 -----------------------
